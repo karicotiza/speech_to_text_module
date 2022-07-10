@@ -1,0 +1,12 @@
+/model/wav2vec2-large-xlsr-53-english/alphabet.json
+/model/wav2vec2-large-xlsr-53-english/config.json
+/model/wav2vec2-large-xlsr-53-english/preprocessor_config.json
+/model/wav2vec2-large-xlsr-53-english/pytorch_model.bin
+/model/wav2vec2-large-xlsr-53-english/special_tokens_map.json
+/model/wav2vec2-large-xlsr-53-english/vocab.json
+/model/wav2vec2-large-xlsr-53-russian/alphabet.json
+/model/wav2vec2-large-xlsr-53-russian/config.json
+/model/wav2vec2-large-xlsr-53-russian/preprocessor_config.json
+/model/wav2vec2-large-xlsr-53-russian/pytorch_model.bin
+/model/wav2vec2-large-xlsr-53-russian/special_tokens_map.json
+/model/wav2vec2-large-xlsr-53-russian/vocab.json
